@@ -22,7 +22,7 @@ Chirper is a simple social media application where users can post short messages
 
 ## Setup Instructions
 
-1. **Clone the Repository**: `git clone https://github.com/yourusername/chirper.git`
+1. **Clone the Repository**: `git clone https://github.com/itsma3il/chirper.git`
 2. **Install Dependencies**: `composer install` (for Laravel)
 3. **Set Up Environment Variables**: Copy the `.env.example` file to `.env` and configure database settings, app key, etc.
 4. **Run Migrations**: `php artisan migrate` (to create database tables)
